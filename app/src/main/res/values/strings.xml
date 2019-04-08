@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PrimeNumberChecker</string>
+    <string name="title">数字を入力してください</string>
+    <string name="buttonName">判定する</string>
+</resources>
